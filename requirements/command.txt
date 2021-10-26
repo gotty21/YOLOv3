@@ -1,0 +1,9 @@
+# requirements.txt
+#pip install -qr /content/drive/Mydrive/project/YOLOv3/code/requirements/requirements.txt
+pip install -qr ./requirements/requirements.txt
+
+# getcoco.sh
+bash requirements/getcoco.sh
+
+# download_weights.sh
+bash requirements/download_weights.sh
